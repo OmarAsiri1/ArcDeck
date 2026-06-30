@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Under_Development-orange?style=for-the-badge&logo=github" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Under_Early_Development-red?style=for-the-badge&logo=github" alt="Status">
 </p>
 
 ---
